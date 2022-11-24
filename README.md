@@ -7,4 +7,4 @@ The licenses view shows several training courses in order to obtain a flying lic
 In the profile section, you will find your personal information, like your goals and achievements. Please talk to the administrator if you need help to update your profile. 
 If you are stuck at some point when using the app, you can go to the help section, which provides useful advice for novel users.
 
-Note: you may need to run both Apache and MySQL services to run the app, I recommend you to install a free package like XAMPP or WAMP.
+Note: you may need to run both Apache and MySQL services to start the app, I recommend you to install a free package like XAMPP or WAMP.
